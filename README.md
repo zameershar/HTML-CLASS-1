@@ -42,7 +42,7 @@ _________________________
 <html>
   <head>
     // this is child tag of body
-    <title></title>
+    <title> my first website</title>
   </head>
   <body>
     // this is child tag
@@ -50,5 +50,17 @@ _________________________
 // This is parent tag
 </html>
 _________________________
+
+
+__________________________________________________________________________________
+Heading in HTML
+Headings are 6 
+<h1></h1>
+<H2></H2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>
+
 
 
