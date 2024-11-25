@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/2bd4eaee-4a77-48c3-b368-ae9d0e0b7a66)# HTML-CLASS-1
 
 HTML = Hyper Text Markup Language
 
