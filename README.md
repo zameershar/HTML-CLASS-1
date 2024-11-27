@@ -12,3 +12,4 @@
 2. Unorder List = `<ul>`
 3. Description List = `<dl>`
 4. Tables = `table>`
+5. Fonts Tag = `<font>`
